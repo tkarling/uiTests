@@ -1,0 +1,17 @@
+{
+  "name": "@ui-tests/babel-preset",
+  "description": "Automatically load the css for the @ui-tests design system.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "tkarling",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "!*.test.*",
+    "!__snapshots__",
+    "!__tests__"
+  ],
+  "dependencies": {
+    "@design-systems/babel-plugin-include-styles": "1.3.0"
+  }
+}
