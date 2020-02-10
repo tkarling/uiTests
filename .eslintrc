@@ -1,3 +1,6 @@
 {
-  "extends": "@design-systems"
+  "extends": "@design-systems",
+  "rules": {
+    "jsdoc/require-jsdoc": 0
+  }
 }
