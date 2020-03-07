@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardGrid It matches the snapshot 1`] = `
+<div>
+  <div
+    class="page"
+  >
+    <div
+      class="pageTitle"
+    >
+      Number of Cards: 
+      0
+    </div>
+    <div
+      class="cardGrid"
+    />
+  </div>
+</div>
+`;

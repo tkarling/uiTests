@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "create": "ds create component",
+    "create:component": "ds create component",
     "create:package": "ds create package",
     "clean": "ds clean",
     "dev": "ds dev",
